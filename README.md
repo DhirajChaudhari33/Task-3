@@ -24,9 +24,4 @@ based on screen size.
 - CSS3 (Flexbox)
 - VS Code
 
-# Screenshots
-## Desktop View
-## Screenshot
-
-![Project Screenshot](aa.png)
 
