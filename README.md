@@ -26,4 +26,7 @@ based on screen size.
 
 # Screenshots
 ## Desktop View
-![Desktop View](a/aa.png)
+## Screenshot
+
+![Project Screenshot](aa.png)
+
