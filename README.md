@@ -23,3 +23,7 @@ based on screen size.
 - HTML5
 - CSS3 (Flexbox)
 - VS Code
+
+# Screenshots
+## Desktop View
+![Desktop View](a/aa.png)
